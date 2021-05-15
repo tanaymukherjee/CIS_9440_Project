@@ -3,7 +3,10 @@
 - Date created: 17th March, 2021
 - Class: CIS 9440
 
-**Project Objective:** Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
+----
+
+**Project Objective:** 
+<p> Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications. </p>
 
 **Project Tools:**
 The tools used to build this Data Warehouse were:
@@ -15,10 +18,10 @@ The tools used to build this Data Warehouse were:
 
 ### Project Planning
 
-**Motivation for project:**
+**1. Motivation for project:**
 <p> We want to analyze YouTube trending videos statistics in 10 different countries to learn more about different trends and topics that people from different parts of the world are interested in at the same time frame. Now do comparison with Netflix data by countries, category and time period. </p>
 
-**Description of the issues or opportunities the project will address:**
+**2. Description of the issues or opportunities the project will address:**
 
 The dataset gives us a lot of avenues to analyze the videos people watch across the globe.
 1. What category of videos really trend on a daily basis? Is there a connection between multiple Geos?
@@ -29,17 +32,17 @@ The dataset gives us a lot of avenues to analyze the videos people watch across 
 6. Next, we redo these above analyses for Netflix data and compare it with YouTube result by joining the data to see if we can manage to get some nice insights about people’s choice on free video entertainment platform like YouTube v/s OTT platforms like Netflix.
 
 
-**Project Business or Organization Value:**
+**3. Project Business or Organization Value:**
 
-***High-level Business Initiative:***
+- High-level Business Initiative:
 <p> To see any correlation between top trending videos in countries with high YouTube viewership and what are the preferences on Netflix for those countries. </p>
   
 
-***BI Sponsors and Stakeholders (who will own this project?)***
+- BI Sponsors and Stakeholders (who will own this project?)
 <p> Analytics team of a consulting firm who are trying to do some market research on visual content across various countries and then do profiling based on category of the content. </p>
   
 
-***What’s the Business Value?***
+- What’s the Business Value?
 <p> Can this exercise be used to extend a possible collaboration with Ad agencies to figure out what kind of videos might bring more traction to their Product Ads for future campaign strategy on trending YouTube videos. How can OTT platforms like Netflix make benefit out of this? </p>
 
 
