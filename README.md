@@ -1,5 +1,5 @@
 # YouTube and Netflix Viewership Analysis
-- Author(s): Chau Hoang & Tanay Mukherjee
+- Author(s): [Chau Hoang](https://www.linkedin.com/in/chau-jo-hoang-227ba991/) & [Tanay Mukherjee](https://www.linkedin.com/in/tanay-mukherjee-96206861/)
 - Date created: 17th March, 2021
 - Class: CIS 9440
 
